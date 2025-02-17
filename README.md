@@ -159,7 +159,7 @@ This will execute all the tests in the solution and display the results in the t
 - **Query Parameters**:
   - `name` (optional): Filter rooms by name.
   - `size` (optional): Filter rooms by size.
-  - `status` (optional): Filter rooms by status.
+  - `isAvailable` (optional): Filter rooms by availability.
 - **Description**: Retrieves a list of rooms based on the provided filters.
 - **Response**: `200 OK` with a list of rooms.
 
